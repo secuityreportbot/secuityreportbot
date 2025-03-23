@@ -3,6 +3,7 @@ Automated Vulnerability Detection & Responsible Disclosure
 
 ## Overview
 SecurityReportBot is an autonomous security assistant that:
+
 ✅ Scans GitHub repositories for vulnerabilities using SAST (Static Application Security Testing)
 
 ✅ Generates human-readable security reports with PoC (Proof of Concept) examples
