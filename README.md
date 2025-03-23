@@ -30,8 +30,6 @@ We will conduct detailed manual verification for each new type of vulnerability 
 
 Additionally, we will manually review all dissenting responses.
 
-## Developer
-👨‍💻 Developer: [kexinoh](https://github.com/kexinoh)
 
 ## Contact
 📧 Email: secuityreportbot@gmail.com
